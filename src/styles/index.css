@@ -1,3 +1,4 @@
-/* 
-    General Styles
-*/
+body {
+  background-color: rgb(0, 0, 0);
+  overflow-x: hidden;
+}
